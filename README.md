@@ -4,15 +4,13 @@ ReactCom is an e-commerce app built to simplify p2p transactions. It is essentia
 
 **Why I built This**
 
-I built this as a way to practice web sockets, react router, and react.js. 
+I built this as a way to practice react router, and react.js. 
 
 **Build status**
 
 Constantly updating, but each pushed version is stable!
 
 **Built with**
-
-Javascript 
 
 React
 
@@ -24,11 +22,9 @@ React
 
 Fork this repo 
 
-open game.js on a live server (Must be live)
-
 If you would like to be able to run this with populated data from the api, please download the backend for this project as well.
 
 
 
-MIT © Shawn Tannor
+MIT © Austin Paley
 # ReactCom
